@@ -5,7 +5,7 @@
 # solar-controller
 A python script that controls devices according to the current solar productions with HomeAssistant
 
-## Important: You need some basic python knowledge to configure and modify the script. This project isn't really user-oriented as I mainly programmed this for myself but wanted to share it.
+#### Important: You need some basic python knowledge to configure and modify the script. This project isn't really user-oriented as I mainly programmed this for myself but wanted to share it.
 
 # Installation
 - Download the solar_control.py file to some kind of server (for example a Raspberry Pi).
