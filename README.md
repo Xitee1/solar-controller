@@ -1,3 +1,7 @@
+# OUTDATED
+### New AppDaemon-version will be published soon in my repo [AppDaemon-useful-apps](https://github.com/Xitee1/AppDaemon-useful-apps) which will be way more configurateable and might get new features.
+
+<br><br><br>
 # solar-controller
 A python script that controls devices according to the current solar productions with HomeAssistant
 
